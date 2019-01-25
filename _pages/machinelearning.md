@@ -5,7 +5,7 @@ title: "Machine Learning Postagens por Tags"
 author_profile: true
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
---- 
+---
   {% include base_path %}
   {% include group-by-array collection=site.posts field="tags" %}
 
