@@ -1,9 +1,10 @@
 ---
-title: "Sobre Mim"
+title: "About"
 permalink: /about/
 header:
-  image: "/images/faria-lima-min.jpg"
+  image: "/images/zakim.jpg"
 ---
 
-Sou engenheiro mecânico com formação autodidata em ciência de dados. Atualmente
-faço mestrado em engenharia com ênfase em Projetos na Unicamp.
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
