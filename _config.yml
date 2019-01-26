@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Emerson Oliveira"
 title_separator          : "-"
 name                     : "Emerson Oliveira"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Emerson de Oliveira"
-  avatar           : "images/IMG_20171016_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_20171016_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "São Paulo, SP"
   email            :
