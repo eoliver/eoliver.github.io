@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Emerson de Oliveira"
-  avatar           : "images/IMG_20171016_profile-min.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_20171016_profile-min.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "São Paulo, SP"
   email            :
