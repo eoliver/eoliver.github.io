@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Sobre Mim"
-    url: /_pages/about.md/
+    url: /about/
   - title: "Machine Learning"
     url: /machine-learning/
   # - title: "About"
