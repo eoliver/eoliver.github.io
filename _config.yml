@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Emerson de Oliveira"
+title                    : "Emerson Oliveira"
 title_separator          : "-"
-name                     : "Emerson de Oliveira"
+name                     : "Emerson Oliveira"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Emerson de Oliveira"
-  avatar           : "images\resize\IMG_20171016_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/IMG_20171016_profile-min.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "São Paulo, SP"
   email            :
