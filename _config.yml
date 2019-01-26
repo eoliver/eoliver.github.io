@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Emerson Oliveira"
+locale                   : "pt-BR"
+title                    : "Emerson de Oliveira"
 title_separator          : "-"
-name                     : "Emerson Oliveira"
+name                     : "Emerson de Oliveira"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
