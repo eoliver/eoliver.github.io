@@ -1,5 +1,5 @@
 ---
-title: "Sobre Mim"
+title: "About Me"
 permalink: /About/
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
