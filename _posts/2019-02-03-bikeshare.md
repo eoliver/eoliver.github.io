@@ -1,7 +1,7 @@
 ---
 title: "Capital Bikeshare: Uma Análise Exploratória de Dados"
 date: 2019-02-03
-tags: [bikeshare, bicicletas compartilhadas]
+tags: [bicicletas compartilhadas]
 header:
   image: "/images/bikeshare-project/Capital-Bikeshare.jpg"
 excerpt: "bikeshare"

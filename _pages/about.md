@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /About/
+permalink: /about/
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
   caption: "Itaim Bibi, edifício Vitra"
