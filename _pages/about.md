@@ -18,5 +18,5 @@ Atualmente trabalho numa indústria de compósitos como auxiliar de projetos. Ne
 sou responsável, juntamente com a coordenação, pelas análises de investimento,
 programação da produção, dimensionamento de matéria-prima, controle de estoque,
 compras, relacionamento com o cliente e expedição do produto final. Faço mestrado
-em engenharia mecânica na Unicamp com foco em machine learning aplicada a 
+em engenharia mecânica na Unicamp com foco em machine learning aplicada a
 veículos autônomos.
