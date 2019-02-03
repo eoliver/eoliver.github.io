@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: arquive
 permalink: /machinelearning/
 title: "Data"
 author_profile: true
 header:
   image: "/images/city-863692_1920.jpg"
-  caption: "Photo by"
+  caption: "Photo by Foundry Co in Pixabay"
 ---
 
 {% include base_path %}
