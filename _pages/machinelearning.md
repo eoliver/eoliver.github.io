@@ -1,7 +1,7 @@
 ---
-layout: arquive
+layout: single
 permalink: /machinelearning/
-title: "Data"
+title: "Projetos de Aprendizado de Máquina"
 author_profile: true
 header:
   image: "/images/city-863692_1920.jpg"
