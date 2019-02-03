@@ -4,16 +4,9 @@ permalink: /machinelearning/
 title: "Manipulação de Dados"
 author_profile: true
 header:
-  image: "/images/city-863692_1920.png"
+  image: "/images/city-863692_1920.jpg"
+  caption: "Photo by"
 ---
-
-# Projetos de Machine learning
-
-Projetos mais relevantes:
-
-1. Bikeshare
-
-
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}

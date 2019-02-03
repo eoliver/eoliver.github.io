@@ -1,8 +1,9 @@
 ---
-title: "About Me"
+title: "About"
 permalink: /About/
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
+  caption: "Itaim Bibi, edifício Vitra"
 ---
 
 Sou engenheiro mecânico com formação em ciência de dados. Crio projetos de Machine
