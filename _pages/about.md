@@ -1,6 +1,6 @@
 ---
 title: "Sobre Mim"
-permalink: /Sobre Mim/
+permalink: /About/
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
 ---

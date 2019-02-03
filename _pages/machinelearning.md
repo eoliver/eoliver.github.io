@@ -1,6 +1,6 @@
 ---
 layout: arquive
-permalink: /machine-learning/
+permalink: /machinelearning/
 title: "Manipulação de Dados"
 author_profile: true
 header:
