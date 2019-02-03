@@ -1,5 +1,5 @@
 ---
-layout: arquive
+layout: single
 permalink: /machinelearning/
 title: "Data"
 author_profile: true
