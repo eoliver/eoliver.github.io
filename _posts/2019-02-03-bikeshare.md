@@ -9,3 +9,9 @@ mathjax: "true"
 ---
 
 # Bikeshare
+
+Neste projeto realizo uma análise exploratória de dados.
+
+## Coleta de dados
+
+No site ...
