@@ -9,8 +9,6 @@ Sou engenheiro mecânico com formação em ciência de dados. Crio projetos de M
 Learning para resolver problemas práticos que envolvem a manipulação de dados,
 análises exploratórias e modelagem preditiva.
 
-O que eu faço?
-
 Resolvo problemas de classificação, regressão, clusterização e recomendação
 através de algoritmos de aprendizagem supervisionada e não-supervisionada.
 
