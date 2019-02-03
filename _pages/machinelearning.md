@@ -1,7 +1,7 @@
 ---
 layout: arquive
 permalink: /machinelearning/
-title: "Manipulação de Dados"
+title: "Data"
 author_profile: true
 header:
   image: "/images/city-863692_1920.jpg"
