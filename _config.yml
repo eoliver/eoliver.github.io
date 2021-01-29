@@ -7,6 +7,7 @@
 
 minimal_mistakes_skin    : "dark" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+logo                     : "/assets/images/robocop-movie.jpg"
 # Site Settings
 locale                   : "pt-BR"
 title                    : "Emerson de Oliveira"
