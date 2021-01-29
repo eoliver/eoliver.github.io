@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Sobre Mim"
+permalink: /SobreMim/
 header:
   image: "/images/itaim-bibi-vitra-sp-jhsf.jpg"
   caption: "Itaim Bibi, edifício Vitra"
@@ -9,6 +9,8 @@ header:
 Sou engenheiro mecânico com formação em ciência de dados. Crio projetos de Machine
 Learning para resolver problemas práticos que envolvem a manipulação de dados,
 análises exploratórias e modelagem preditiva.
+
+Realizo projetos com Python.
 
 Resolvo problemas de classificação, regressão, clusterização e recomendação
 através de algoritmos de aprendizagem supervisionada e não-supervisionada.
