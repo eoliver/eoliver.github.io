@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Sobre Mim"
-    url: /about/
+    url: /SobreMim/
 
   - title: "Projetos"
-    url: /machinelearning/
+    url: /Projetos/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
