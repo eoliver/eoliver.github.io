@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /machinelearning/
+permalink: /Projetos/
 title: "Projetos de Aprendizado de Máquina"
 author_profile: true
 header:
